@@ -9,6 +9,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+
 public class Alemania extends JFrame {
     private JTextArea textArea;
 
